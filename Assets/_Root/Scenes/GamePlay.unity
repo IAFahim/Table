@@ -1442,6 +1442,7 @@ MonoBehaviour:
   startPosition: {x: 96.35779, y: 52, z: 0}
   endPosition: {x: 96.35779, y: 10, z: 0}
   duration: 1
+  ease: 29
   rectTransform: {fileID: 1506186631}
 --- !u!1 &2017605033
 GameObject:
